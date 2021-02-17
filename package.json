@@ -1,0 +1,24 @@
+{
+  "name": "coursera-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielK0707/coursera-angular.git"
+  },
+  "author": "Daniel Kersten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielK0707/coursera-angular/issues"
+  },
+  "homepage": "https://github.com/DanielK0707/coursera-angular#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
